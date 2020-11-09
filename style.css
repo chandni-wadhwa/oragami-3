@@ -1,0 +1,15 @@
+body{background-color: #79c1c9;
+border: 20px solid #000;}
+
+h1{text-decoration: underline #ffffff;
+text-align: center;
+background-color: #79c1c9;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 120px;
+	font-family: Helvica,Arial;
+	
+}
+p { text-align: center;
+font-size: 30px;
+}
